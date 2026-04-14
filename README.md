@@ -1,5 +1,3 @@
-# association-rule-mining-in-ecomm
-
 # A Review of Modern Approaches to Association Rule Mining in E-commerce Environments
 
 ## 📌 Overview
